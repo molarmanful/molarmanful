@@ -6,7 +6,8 @@
 ╔══════════════════════════════════════════╗
 ║ ┌──────────────────────────────────────┐ ║
 ║ │                                      │ ║
-╟─┤    Artist/Programmer                 ├─╢
+╟─┤    <strong>BEN PANG</strong>                          ├─╢
+╟─┤    Artist / Programmer               ├─╢
 ╟─┤    Graduate student @ NYU ITP        ├─╢
 ╟─┤    B.A. Interactive Media @ NYUAD    ├─╢
 ╟─┤    Currently working on <a href="https://github.com/molarmanful/sclin">sclin</a>        ├─╢
