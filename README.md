@@ -5,6 +5,6 @@
 </div>
 
 - Artist/Programmer
-- Graduate student @ NYU Interactive Telecommunications Program
-- B.A. Interactive Media @ NYU Abu Dhabi
+- Graduate student @ NYU ITP
+- B.A. Interactive Media @ NYUAD
 - Currently working on [sclin](https://github.com/molarmanful/sclin)
