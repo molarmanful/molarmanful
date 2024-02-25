@@ -10,7 +10,7 @@
 ╟─┤    Artist / Programmer                ├─╢
 ╟─┤    Graduate student @ NYU ITP         ├─╢
 ╟─┤    B.A. Interactive Media @ NYUAD     ├─╢
-╟─┤    Currently building <a href="https://github.com/molarmanful/sclin">sclin</a>, <a href="https://github.com/molarmanful/eldur">eldur</a>    ├─╢
+╟─┤    Currently building <a href="https://github.com/molarmanful/sclin">sclin</a>, <a href="https://github.com/molarmanful/kirsch">kirsch</a>   ├─╢
 ║ │                                       │ ║
 ║ └───────────────────────────────────────┘ ║
 ╚═══════════════════════════════════════════╝
