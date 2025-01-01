@@ -8,6 +8,7 @@
 ║ │                                       │ ║
 ╟─┤    <strong>BEN PANG</strong>                           ├─╢
 ╟─┤    Creative Technologist              ├─╢
+╟─┤    Front-End Eng @ UpDoc              ├─╢
 ╟─┤    M.P.S. @ NYU ITP                   ├─╢
 ╟─┤    B.A. Interactive Media @ NYUAD     ├─╢
 ╟─┤    Currently building <a href="https://github.com/molarmanful/bited">bited</a>           ├─╢
